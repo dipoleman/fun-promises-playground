@@ -1,0 +1,4 @@
+Title: Complex Analysis
+Authors: Ian Stewart,David Tall
+Description:
+A textbook for students of pure mathematics.
